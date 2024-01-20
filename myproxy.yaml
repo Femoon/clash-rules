@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,models.topazlabs.com
+  - DOMAIN-SUFFIX,qbittorrent.org
+  - DOMAIN-SUFFIX,edgeplan.top
+  - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,battle.net
