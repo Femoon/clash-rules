@@ -1,12 +1,15 @@
 # 基于 https://github.com/Repcz/Tool/blob/X/Clash/Rules/Emby.list 修改
-#
 # 2024-01-21
+# 推荐节点类型-美国
 
 payload:
   # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
-
+  
+  # 纸片人
+  - DOMAIN-SUFFIX,embyplus.org
+  
   # MisakaF
   - DOMAIN-SUFFIX,misakaf.org
 
