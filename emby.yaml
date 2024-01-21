@@ -7,8 +7,9 @@ payload:
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
   
-  # 纸片人
+  # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN,gd.9521732.xyz
   
   # MisakaF
   - DOMAIN-SUFFIX,misakaf.org
