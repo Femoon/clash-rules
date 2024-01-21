@@ -1,0 +1,19 @@
+# 基于 https://github.com/Repcz/Tool/blob/X/Clash/Rules/Emby.list 修改
+#
+# 2024-01-21
+
+payload:
+  # ACA & MisakaF
+  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,porn.aca.best
+
+  # MisakaF
+  - DOMAIN-SUFFIX,misakaf.org
+
+  # PiliPili
+  - DOMAIN-SUFFIX,pilipiliultra.top
+  - DOMAIN-SUFFIX,pilipiliultra.com
+
+  # TreeDiagram
+  - DOMAIN-SUFFIX,123456.al
+
