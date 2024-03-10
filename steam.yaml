@@ -3,6 +3,7 @@
 # 2024-02-04
 # 分流推荐-直连
 payload:
+  - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,45.121.184.0/24
