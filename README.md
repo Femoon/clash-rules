@@ -1,5 +1,5 @@
 # clash-rules
-# rule providers example
+## rule providers example
 ```
 rule-providers:
   mydirect:
@@ -28,7 +28,7 @@ rule-providers:
     interval: 86400
 rules:
   - RULE-SET,mydirect,DIRECT
-  - RULE-SET,myproxy,🚀 节点选择
+  - RULE-SET,myproxy,YourProxyGroups
   - RULE-SET,steam,DIRECT
-  - RULE-SET,emby,🚀 节点选择
+  - RULE-SET,emby,YourProxyGroups
 ```
