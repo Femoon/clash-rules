@@ -16,8 +16,7 @@ payload:
   - DOMAIN-SUFFIX,misakaf.org
 
   # PiliPili
-  - DOMAIN-SUFFIX,pilipiliultra.top
-  - DOMAIN-SUFFIX,pilipiliultra.com
+  - DOMAIN-SUFFIX,pilipili.club
 
   # TreeDiagram
   - DOMAIN-SUFFIX,123456.al
