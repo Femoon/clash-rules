@@ -5,7 +5,6 @@
 payload:
   # ACA & MisakaF
   - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,porn.aca.best
   
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
