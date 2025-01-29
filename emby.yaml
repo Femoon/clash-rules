@@ -10,12 +10,6 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,chirsemby.top
-  
-  # MisakaF
-  - DOMAIN-SUFFIX,misakaf.org
-
-  # PiliPili
-  - DOMAIN-SUFFIX,pilipili.club
 
   # TreeDiagram
   - DOMAIN-SUFFIX,123456.al
