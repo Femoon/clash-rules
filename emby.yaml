@@ -3,14 +3,8 @@
 # 推荐节点类型-美国
 
 payload:
-  # ACA & MisakaF
-  - DOMAIN-SUFFIX,emby.aca.best
-  
   # 纸片人小站
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN,gd.9521732.xyz
   - DOMAIN,chirsemby.top
-
-  # TreeDiagram
-  - DOMAIN-SUFFIX,123456.al
 
