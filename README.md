@@ -26,9 +26,16 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Femoon/clash-rules/steam.yaml"
     path: ./ruleset/steam.yaml
     interval: 86400
+  steam_ip:
+    type: http
+    behavior: ip
+    url: "https://cdn.jsdelivr.net/gh/Femoon/clash-rules/steam_ip.yaml"
+    path: ./ruleset/steam_ip.yaml
+    interval: 86400
 rules:
   - RULE-SET,mydirect,DIRECT
   - RULE-SET,myproxy,YourProxyGroups
+  - RULE-SET,steam_ip,DIRECT,no-resolve
   - RULE-SET,steam,DIRECT
   - RULE-SET,emby,YourProxyGroups
 ```
